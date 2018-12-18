@@ -1,0 +1,5 @@
+git clone https://github.com/Flyzy2005/ss-fly
+
+ss-fly/ss-fly.sh -i password 1024
+
+ss-fly/ss-fly.sh -bbr
